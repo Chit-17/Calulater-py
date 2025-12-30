@@ -2,7 +2,6 @@
 
 A modern, responsive calculator built with Flask backend and Tailwind CSS frontend. Features a sleek dark theme with JetBrains Mono font, secure expression evaluation, and smooth animations.
 
-![Calculator Screenshot](screenshot.png)
 <img width="1365" height="678" alt="image" src="https://github.com/user-attachments/assets/f80461a5-c9f9-47b9-be80-377c78f365f5" />
 
 
